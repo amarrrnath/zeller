@@ -1,7 +1,9 @@
 # zeller
 Checkout Management Service
 
-To run: ts-node zeller/CheckoutManagement/index.ts
+To run: 
+  1. npm install
+  2. npm run checkout
 
 Zeller is starting a computer store. You have been engaged to build the checkout system. We will start with the following products in our catalogue
 
