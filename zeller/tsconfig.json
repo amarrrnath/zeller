@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true,
+      "moduleResolution": "node",
+      "target": "ES6"
+    },
+    "exclude": [
+      "node_modules/**/*",
+    ]
+  }

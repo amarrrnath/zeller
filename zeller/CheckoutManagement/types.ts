@@ -22,11 +22,12 @@ export type PricingRulestype = {
 }
 
 export type CartType = {
-    [SKU: string] : {
+    [SKU: string]: {
         name: string;
         quantity: number;
         price: number;
         discountApplied: number;
+        freeQuantity: number;
     };
 }
 

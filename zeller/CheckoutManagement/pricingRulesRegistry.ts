@@ -1,7 +1,7 @@
 import { DiscountType, DiscountValueType, Unit } from "./enums";
 import { PricingRulestype } from "./types";
 
-export const PricingRules: PricingRulestype = {
+export const pricingRules: PricingRulestype = {
     atv: {
         condition: [
             {
